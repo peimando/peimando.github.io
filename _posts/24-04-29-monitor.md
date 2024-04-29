@@ -10,6 +10,7 @@ usage in Linux.
 # DOWNLOAD
 ```
 $ wget https://raw.githubusercontent.com/peimando/TECMINT_MONITOR/master/tecmint_monitor.sh
+$ chmod +x tecmint_monitor.sh
 ```
 # USAGE
 
