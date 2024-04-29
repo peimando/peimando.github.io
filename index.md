@@ -13,7 +13,7 @@ layout: default
 ### Artículos recientes
 [post](_posts/28-04-2024.md).
 
-{% for post in site._posts %}
+{% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
