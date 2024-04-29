@@ -3,6 +3,8 @@ layout: default
 ---
 
 ## Bienvenido a la página de Ciberseguridad y Redes
+### Artículos recientes
+
 {% for post in site.post %}
 - [{{post.title }}]({{ post.url }})
 {% endfor %}
