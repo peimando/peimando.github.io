@@ -1,9 +1,8 @@
 ---
 layout: default
-title: A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM
-usage in Linux
-
+title: A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM usage in Linux
 ---
+
 # TECMINT_MONITOR
 A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM
 usage in Linux. 
