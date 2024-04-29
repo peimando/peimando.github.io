@@ -8,7 +8,7 @@ layout: default
 
 ### Artículos recientes
 
-{% for post in site.posts %}
+{% for post in site._posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
