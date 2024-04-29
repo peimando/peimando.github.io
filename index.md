@@ -3,11 +3,7 @@ layout: default
 ---
 
 ## Bienvenido a la página de Ciberseguridad y Redes
-### Artículos recientes
 
-{% for post in site.post %}
-- [{{post.title }}]({{ post.url }})
-{% endfor %}
 ¡Hola! Esta es una página estática de ciberseguridad y redes creada con Jekyll. Aquí puedes encontrar información y recursos relacionados con estos temas.
 
 ### Artículos recientes
