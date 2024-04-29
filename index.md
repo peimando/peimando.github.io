@@ -7,7 +7,6 @@ layout: default
 ¡Hola! Esta es una página estática de ciberseguridad y redes creada con Jekyll. Aquí puedes encontrar información y recursos relacionados con estos temas.
 
 ### Artículos recientes
-[post](_posts/28-04-2024.md).
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
