@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Diario de gestión de incidentes
+title: Diario de gestión de incidentes
 ---
 
 **Diario de gestión de incidentes**
